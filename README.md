@@ -21,7 +21,7 @@ DEV JIG "PKG"
 
 1/ as an outsider, oss contributor, issue=>fork=>code=>pr=>[await bc merge]=>done.
 
-https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/77
+https://github.com/barrycumbie/turbo-potato-sobie-profile/issues/86
 
 PROOF: https://github.com/barrycumbie/turbo-potato-sobie-profile/blob/main/docs/brayden.html
 
