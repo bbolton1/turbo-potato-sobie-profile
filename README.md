@@ -27,7 +27,7 @@ PROOF: https://github.com/barrycumbie/turbo-potato-sobie-profile/blob/main/docs/
 
 2/ as a repo collab: issue=>branch=>code=>pr=>reviewed=>[resolve conflict]=>merge.
 
-PR 115 = https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/115
+PR 110 = https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/110 
 
 TEST JIG 2 PROOF:
 <img width="363" alt="image" src="https://github.com/user-attachments/assets/1fdd19c6-c8df-4889-a0bc-060082c0cdd6" />
@@ -36,5 +36,5 @@ TEST JIG 2 PROOF:
 
 3/ code review, 
 
-reviewed pr110 [https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/88#pullrequestreview-2625219169](https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/110)
+reviewed pr115 https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/115
 
