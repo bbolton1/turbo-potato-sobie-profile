@@ -23,7 +23,7 @@ DEV JIG "PKG"
 
 https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/77
 
-PROOF: https://github.com/barrycumbie/turbo-potato-sobie-profile/blob/main/docs/milly.html
+PROOF: https://github.com/barrycumbie/turbo-potato-sobie-profile/blob/main/docs/brayden.html
 
 2/ as a repo collab: issue=>branch=>code=>pr=>reviewed=>[resolve conflict]=>merge.
 
